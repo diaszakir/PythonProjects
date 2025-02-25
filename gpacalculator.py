@@ -1,0 +1,2 @@
+print("GPA Calculator")
+subjects = {}
